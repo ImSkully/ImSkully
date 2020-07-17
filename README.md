@@ -22,7 +22,7 @@
       <a href="https://imskully.github.io/emeraldgamingmta/" target="_blank" title="Visit Emerald Gaming">
         <img src="https://i.imgur.com/1Y9j3cn.png" alt="Emerald Gaming Logo" />
       </a>
-      <details><summary><strong>Where is the emeraldgamingmta repository?</strong></summary>
+      <details><summary><strong>Where is the <a href="https://imskully.github.io/emeraldgamingmta/" target="_blank">emeraldgamingmta</a> repository?</strong></summary>
         <br>
         <table align="left">
           <tr>
