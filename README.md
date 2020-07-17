@@ -6,6 +6,7 @@
         <img src="https://i.imgur.com/XQdRmFu.png" alt="UltraNetwork Logo" height="110" />
       </a>
       <details><summary><strong>External Links</strong></summary>
+        <br>
         <ul align="left">
           <li>
             <strong>Website:</strong> <a href="https://ultranetwork.net" target="_blank" title="UltraNetwork Website">https://ultranetwork.net</a>
@@ -22,6 +23,7 @@
         <img src="https://i.imgur.com/1Y9j3cn.png" alt="Emerald Gaming Logo" />
       </a>
       <details><summary><strong>Where is the emeraldgamingmta repository?</strong></summary>
+        <br>
         <table align="left">
           <tr>
             <td>
