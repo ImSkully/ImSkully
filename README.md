@@ -3,7 +3,7 @@
     <!-- UltraNetwork -->
     <td width="50%" align="center" valign="top">
       <a href="https://ultranetwork.net" target="_blank" title="Visit UltraNetwork">
-        <img src="https://i.imgur.com/XQdRmFu.png" alt="UltraNetwork Logo" height="120" />
+        <img src="https://i.imgur.com/XQdRmFu.png" alt="UltraNetwork Logo" height="100" />
       </a>
       <details><summary><strong>External Links</strong></summary>
         <ul align="left">
