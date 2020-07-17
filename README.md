@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://github.com/ImSkully/ImSkully/blob/master/skully.gif" alt="ImSkully GIF" width="465" style="border-style: solid; border-radius: 25px;" />
-</p>
-
-<hr>
-
 <table>
   <tr>
     <!-- UltraNetwork -->
