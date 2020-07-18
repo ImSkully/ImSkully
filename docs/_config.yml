@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "ImSkully"
-  avatar           : #"assets/images/Skully.png"
+  avatar           : "assets/images/Skully.png"
   bio              : "Software Developer"
   location         : "Ireland"
   email            : "skully@ultranetwork.net"
