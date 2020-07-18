@@ -1,7 +1,5 @@
 ---
 title: "Hello World: The First Post"
-categories:
-	- Testing
 sidebar:
   title: "Navigation"
   nav: sidebar
