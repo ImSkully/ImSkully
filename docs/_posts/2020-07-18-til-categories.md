@@ -1,11 +1,7 @@
 ---
-title: "TIL: Nothing"
+title: "TIL: Global Sidebar"
 ---
 
-~~TIL how to use Minimal Mistake's categories.~~
+TIL how to set the global side bar.
 
-~~TIL how to use Minimal Mistake's tags.~~
-
-Neither work.
-
-Also, this is useful: https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/
+Also, this is useful: [https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/)
