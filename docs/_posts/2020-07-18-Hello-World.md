@@ -1,6 +1,7 @@
 ---
 title: "Hello World: The First Post"
-excerpt: "Is this thing working?"
+categories:
+	- Testing
 sidebar:
   title: "Navigation"
   nav: sidebar
