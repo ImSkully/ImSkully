@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ImSkully's GitBlog"
+title                    : "The GitBlog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "ImSkully"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "ImSkully"
   avatar           : "assets/images/Skully.png"
-  bio              : "Software Developer"
+  bio              : "Student & Developer"
   location         : "Ireland"
   email            : "skully@ultranetwork.net"
   links:
