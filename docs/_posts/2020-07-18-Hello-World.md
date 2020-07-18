@@ -1,3 +1,11 @@
+---
+title: "Hello World: The First Post"
+excerpt: "Is this thing working?"
+sidebar:
+  title: "Navigation"
+  nav: sidebar
+---
+
 Trying to figure out this file structure, Jekyll doesn't make this easy.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lectus velit, semper id nulla eget, ornare sagittis velit. Vivamus quis varius odio. Proin at massa id velit interdum imperdiet. Sed id leo sit amet purus vulputate tempor. Proin auctor quam ut sapien aliquet aliquet. Mauris porttitor diam eget posuere fermentum. Cras et sollicitudin felis, nec dictum diam. Donec dui ligula, facilisis sit amet pulvinar ut, dignissim sed felis. Nulla eu sagittis mi. Donec turpis urna, mollis et lectus id, fringilla finibus tellus. Ut luctus rutrum erat id placerat. Vestibulum et elementum leo, non pharetra purus. Proin finibus nibh vitae quam laoreet, nec gravida lectus facilisis. Vivamus semper, dolor sit amet rhoncus faucibus, velit velit ornare arcu, eget viverra enim elit ut velit.
