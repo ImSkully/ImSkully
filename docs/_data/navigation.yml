@@ -4,3 +4,17 @@ main:
     url: http://skully.tech
   # - title: "Placeholder"
   #   url: /Placeholder/
+
+sidebar-main:
+  - title: "Projects"
+    children:
+      - title: "UltraNetwork"
+        url: /
+      - title: "Emerald Gaming"
+        url: /
+  - title: "External Links"
+    children:
+      - title: "UltraNetwork Website"
+        url: "https://ultranetwork.net"
+      - title: "Emerald Gaming Project"
+        url: "https://imskully.github.io/emeraldgamingmta/"
