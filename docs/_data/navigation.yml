@@ -5,7 +5,7 @@ main:
   # - title: "Placeholder"
   #   url: /Placeholder/
 
-sidebar-main:
+sidebar:
   - title: "Projects"
     children:
       - title: "UltraNetwork"
