@@ -1,7 +1,7 @@
 ---
 title: "TIL: Categories"
-categories:
-	- "TIL"
+tags:
+	- TIL
 sidebar:
   title: "Navigation"
   nav: sidebar
