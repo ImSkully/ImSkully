@@ -11,5 +11,5 @@ Append to the end of a string that is larger than the value of `x` where `x` is 
 local value = "This is a long string that needs substitution."
 local maxLength = 12
 
-if #value > maxLength then value = string.sub(value, 1, maxLength - 1) .. "..." end end
+if #value > maxLength then value = string.sub(value, 1, maxLength - 1) .. "..." end
 ```
