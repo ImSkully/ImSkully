@@ -24,7 +24,7 @@
       </a>
       <details><summary><strong>Where is the <a href="https://imskully.github.io/emeraldgamingmta/" target="_blank">emeraldgamingmta</a> repository?</strong></summary>
         <br>
-        <table style="display: block;">
+        <table style="display: unset !important;">
           <tr>
             <td>
               Maintaining an open-source project and providing assistance to users who want to use the source is a lot of work and time consuming, both of which I can't upkeep at the moment. The Emerald Gaming Project has been discontinued as being open source and I will continue to work on it in my spare time.
