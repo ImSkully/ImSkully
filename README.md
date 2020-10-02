@@ -24,10 +24,12 @@
       </a>
       <details><summary><strong>Where is the <a href="https://imskully.github.io/emeraldgamingmta/" target="_blank">emeraldgamingmta</a> repository?</strong></summary>
         <br>
-        <table align="left">
+        <table style="display: none;">
           <tr>
             <td>
-              Maintaining an open-source project and providing assistance to users who want to use the source is a lot of work and time consuming, both of which I can't upkeep at the moment. The Emerald Gaming Project has been discontinued as being open source and I will continue to work on it in my spare time.
+              Maintaining an open-source project and providing assistance to users who want to use the source<br>
+              is a lot of work and time consuming, both of which I can't upkeep at the moment.<br>
+              The Emerald Gaming Project has been discontinued as being open source and I will continue to work<br>on it in my spare time.
             </td>
           </tr>
         </table>
