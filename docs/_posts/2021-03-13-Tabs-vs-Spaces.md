@@ -1,4 +1,3 @@
-
 ---
 title: "Tabs vs. Spaces"
 ---
