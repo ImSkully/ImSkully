@@ -18,6 +18,3 @@ I still don't understand why any concious being would willingly choose to pick s
 
 ## Who cares?
 Granted nowadays with indentation automatically being handled for us by IDEs and work flow plugins such as linters, it doesn't really matter. Indentation converts automatically when you save a file with your preferences set, spaces turn to tabs, or vice versa. The only thing that still affects me is when I go to download some code off GitHub and don't plan on actually working with it, but just want to view it or fork the code - sometimes letting the IDE handle automatic conversion doesn't work, other times we choose not to use it; I dislike linters, they get things wrong and are never correct, sometimes I'm just indenting my code and formatting a comment or some inline documentation to look a specific way for readability, or trying to format a table so its more easily understood and to this day I have yet to see a linter that takes this into consideration and unfortunately at the end of it all, I prefer to manually execute the command to convert indentation rather than trusting automation to handle it.
-
-## tl;dr
-If you press spacebar eight times instead of tab, you're a freak.
