@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "Skully"
   avatar           : "assets/images/Skully.png"
-  bio              : "Student & Developer"
+  bio              : "Software Engineer & Developer"
   location         : "Ireland"
   email            : # "skully@ultranetwork.net"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:skully@ultranetwork.net"
+      url: "mailto:contact@skully.tech"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "http://skully.tech"
@@ -170,8 +170,8 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
+  - /docs # ignore /docs
+  - /test # ignore /test
 keep_files:
   - .git
   - .svn
