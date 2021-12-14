@@ -45,4 +45,4 @@ convertValueToBoundary(5, 0, 10, 0, 100) // Output -> 50
 
 ***
 
-**Stack Exchange Code Review:** https://codereview.stackexchange.com/questions/269408/convert-number-from-old-range-to-new-numeric-range
+<div markdown="0"><a href="https://codereview.stackexchange.com/questions/269408/convert-number-from-old-range-to-new-numeric-range" class="btn">Stack Exchange Code Review</a></div>
