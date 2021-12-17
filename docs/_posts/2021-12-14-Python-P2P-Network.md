@@ -4,12 +4,12 @@ title: "Python Peer-to-Peer Network"
 
 A simple peer-to-peer file sharing torrenting network with encrypted payload transportation and support for multiple clients over sockets with multi-threading. The application emulates multiple clients connecting to a single server in order to retrieve a list of clients which have files, and then be able to transport files across each client via sockets.
 
-**Source:** https://github.com/ImSkully/python-p2p-network
+**Source:** [ImSkully/python-p2p-network](https://github.com/ImSkully/python-p2p-network)
 
 ***
 
 # Design Documentation
-This design documentation covers the principles behind the core of how each function works and why certain decisions were made during the development process. The overall code structure, functionality and features are outlined in further detail.
+This covers the principles behind the core of how each function works and why certain decisions were made during the development process. The overall code structure, functionality and features are outlined in further detail.
 
 ## I. Backend Design
 The code structure of the application creates a separate function for each allocated command, therefore you may see a variety of functions throughout both client and server sided files.
@@ -62,9 +62,9 @@ Further on, some simple python string manipulation to remove all unrequired stri
 
 Skipping past the debug snippet of code, we can see that `theCommand` is checked with the contents of the `COMMANDS` array, and if the string of `theCommand` exists in this array, we fetch that command from the array under its index and then invoke the respective function, passing on our parameters.
 
-This command-to-function specific structure makes the code a lot more tidy and simpler to manage, rather than having every single command handler in the same function. It also provides development benefits as there is no need to parse the command parameters every time for each command as they are sent into each function as a separate parameter variable automatically as all `commandParameters` are split when sent to the command’s function.
+This command-to-function specific structure makes the code a lot more tidy and simpler to manage, rather than having every single command handler in the same function. It also provides development benefits as there is no need to parse the command parameters every time for each command as they are sent into each function as a separate parameter variable automatically as all `commandParameters` are split when sent to the command’s function. Additional to this, it also allows the seamless creation of new commands by simply adding a function to the `COMMANDS` dictionary.
 
-**Additional to this, it also allows the seamless creation of new commands by simply adding a function to the `COMMANDS` dictionary. It is to be noted that all inputs starting with a backslash `/` on a client denotes commands to be sent to the server, and all input without a backslash `/` are assumed to be client specific commands which are handled on the client and not sent to the server.**
+**It is to be noted that all inputs starting with a backslash `/` on a client denotes commands to be sent to the server, and all input without a backslash `/` are assumed to be client specific commands which are handled on the client and not sent to the server.**
 
 ## III. System Specifics
 ### Ping Command
