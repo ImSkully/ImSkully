@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "skully.tech"
-    url: http://skully.tech
+    url: https://skully.tech
   # - title: "Placeholder"
   #   url: /Placeholder/
 
@@ -9,12 +9,18 @@ sidebar:
   - title: "Projects"
     children:
       - title: "UltraNetwork"
-        url: /
+        url: "https://ultranetwork.net"
       - title: "Emerald Gaming"
-        url: /
+        url: "https://emeraldgaming.net"
+      - title: "P2P Torrenting Network"
+        url: Python-P2P-Network/
+      - title: "Huffman Tree Encoding"
+        url: "https://github.com/ImSkully/huffman-tree-encoding/wiki"
   - title: "External Links"
     children:
-      - title: "UltraNetwork Website"
-        url: "https://ultranetwork.net"
-      - title: "Emerald Gaming Project"
-        url: "https://imskully.github.io/emeraldgamingmta/"
+      - title: "Discord"
+        url: "https://skully.tech/discord"
+      - title: "Personal Website"
+        url: "https://skully.tech"
+      - title: "Buy Me A Coffee"
+        url: "https://www.buymeacoffee.com/Skully"
