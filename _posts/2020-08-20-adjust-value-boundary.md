@@ -43,4 +43,4 @@ For instance, given the number `5` within a range of `0-10`, we want to increase
 convertValueToBoundary(5, 0, 10, 0, 100) // Output -> 50
 ```
 
-<div markdown="0"><a href="https://codereview.stackexchange.com/questions/269408/convert-number-from-old-range-to-new-numeric-range" class="btn">Stack Exchange Code Review</a></div>
+<div markdown="0"><a href="https://codereview.stackexchange.com/questions/269408/convert-number-from-old-range-to-new-numeric-range" target="_blank" class="btn btn--warning">Stack Exchange Code Review</a></div>
