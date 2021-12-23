@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Skully"
 description              : "Hello World."
 url                      : "https://blog.skully.tech" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/ImSkully" # the subpath of your site, e.g. "/blog"
+baseurl                  : #"/ImSkully" # the subpath of your site, e.g. "/blog"
 repository               : "ImSkully/ImSkully" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "assets/images/Skully.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -170,8 +170,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore /docs
-  - /test # ignore /test
 keep_files:
   - .git
   - .svn
