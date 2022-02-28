@@ -20,7 +20,7 @@
     <!-- Emerald Gaming -->
     <td width="50%" align="center" valign="top">
       <a href="https://emeraldgaming.net" target="_blank" title="Visit Emerald Gaming">
-        <img src="https://i.imgur.com/1Y9j3cn.png" alt="Emerald Gaming Logo" height="125" />
+        <img src="https://i.imgur.com/1Y9j3cn.png" alt="Emerald Gaming Logo" />
       </a>
       <details><summary><strong>External Links</strong></summary>
         <br>
