@@ -20,19 +20,18 @@
     <!-- Emerald Gaming -->
     <td width="50%" align="center" valign="top">
       <a href="https://emeraldgaming.net" target="_blank" title="Visit Emerald Gaming">
-        <img src="https://i.imgur.com/1Y9j3cn.png" alt="Emerald Gaming Logo" />
+        <img src="https://i.imgur.com/1Y9j3cn.png" alt="Emerald Gaming Logo" height="110" />
       </a>
-      <details><summary><strong>Where is the <a href="https://imskully.github.io/emeraldgamingmta/" target="_blank">emeraldgamingmta</a> repository?</strong></summary>
+      <details><summary><strong>External Links</strong></summary>
         <br>
-        <table style="display: none;">
-          <tr>
-            <td>
-              Maintaining an open-source project and providing assistance to users who want to use the source<br>
-              is a lot of work and time consuming, both of which I can no longer upkeep.<br>
-              The Emerald Gaming Project has been discontinued as being open source and I will continue to work<br>on it in my spare time.
-            </td>
-          </tr>
-        </table>
+        <ul align="left">
+          <li>
+            <strong>Website:</strong> <a href="https://emeraldgaming.net" target="_blank" title="Emerald Gaming Website">https://emeraldgaming.net</a>
+          </li>
+          <li>
+            <strong>Repository:</strong> <a href="https://imskully.github.io/emeraldgamingmta/" target="_blank" title="Emerald Gaming Repository">ImSkully/emeraldgamingmta</a>
+          </li>
+        </ul>
       </details>
     </td>
   </tr>
