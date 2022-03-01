@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Skully"
   avatar           : "assets/images/Skully.png"
-  bio              : "Software Engineer & Developer"
+  bio              : "Software Engineer"
   location         : "Ireland"
-  email            : # "skully@ultranetwork.net"
+  email            : # "contact@skully.tech"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
