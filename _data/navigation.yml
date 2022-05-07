@@ -16,6 +16,12 @@ sidebar:
         url: Python-P2P-Network/
       - title: "Huffman Tree Encoding"
         url: "https://github.com/ImSkully/huffman-tree-encoding/wiki"
+      - title: "Ebola Cellular Automata"
+        url: "https://github.com/ImSkully/ebola-cellular-automata"
+      - title: "Computer Vision Fault Detection"
+        url: "https://github.com/ImSkully/python-cv-fault-detection"
+      - title: "PHP MySQLi Simplified"
+        url: "https://github.com/ImSkully/php-mysqli-simplified"
   - title: "External Links"
     children:
       - title: "Discord"
