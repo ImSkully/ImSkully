@@ -1,6 +1,6 @@
-<img width="50%" align="right" src="https://readme-stats-imskully.vercel.app/api?username=ImSkully&count_private=true&include_all_commits=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars&icon_color=fff&hide_border=true">
+<img width="50%" align="right" src="https://readme-stats-imskully.vercel.app/api?username=ImSkully&count_private=true&include_all_commits=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars&icon_color=fff&hide_border=true&cache_seconds=86400">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/QKEqHNE.png">
-<img width="50%" align="right" src="https://readme-stats-imskully.vercel.app/api/top-langs?username=ImSkully&theme=github_dark&hide_border=true&layout=compact&hide=css,hack,hlsl,scss&langs_count=8">
+<img width="50%" align="right" src="https://readme-stats-imskully.vercel.app/api/top-langs?username=ImSkully&theme=github_dark&hide_border=true&layout=compact&hide=css,hack,hlsl,scss&langs_count=8&cache_seconds=86400">
 
 🛠️ Currently working with the following technologies:
 
