@@ -1,5 +1,7 @@
 ---
 title: "LaMDA - Sentient or Groundbreaking Conversation Technology?"
+toc: true
+toc_sticky: true
 ---
 
 # Google LaMDA
