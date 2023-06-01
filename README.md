@@ -14,5 +14,5 @@
 
 <p align="center">
   <a href="https://ultranetwork.net" target="_blank" title="UltraNetwork"><img width="25%" alt="UltraNetwork" src="https://i.imgur.com/diVA1qX.png" /></a>
-  <a href="https://emeraldgaming.net" target="_blank" title="Emerald Gaming"><img width="25%" alt="Emerald Gaming" src="https://i.imgur.com/urEQVoc.png"></a>
+  <a href="https://skully.tech/emerald" target="_blank" title="Emerald Gaming"><img width="25%" alt="Emerald Gaming" src="https://i.imgur.com/urEQVoc.png"></a>
 </p>
