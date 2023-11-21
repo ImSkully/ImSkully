@@ -4,7 +4,7 @@
 
 🛠️ Currently working with the following technologies:
 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![javascript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![php](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![typescript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white) ![php](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 
 👋 You can find me on these platforms, get in touch!
 
@@ -14,6 +14,6 @@
 
 <p align="center">
   <a href="https://ultranetwork.net" target="_blank" title="UltraNetwork"><img width="20%" alt="UltraNetwork Logo" src="https://i.imgur.com/diVA1qX.png" /></a>
-  <a href="https://redmroleplay.com" target="_blank" title="RedM"><img width="16%" alt="RedM Logo" src="https://i.imgur.com/jXrPwbB.png"></a>
+  <a href="https://redmroleplay.net" target="_blank" title="RedM"><img width="16%" alt="RedM Logo" src="https://i.imgur.com/jXrPwbB.png"></a>
   <a href="https://emeraldgaming.net" target="_blank" title="Emerald"><img width="20%" alt="Emerald Gaming Logo" src="https://i.imgur.com/urEQVoc.png"></a>
 </p>
